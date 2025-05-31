@@ -1,0 +1,4 @@
+../Core/Src/buzzer.c:11:6:buzzer_beep	40	static,ignoring_inline_asm
+../Core/Src/buzzer.c:29:6:buzzer_menu_change	8	static
+../Core/Src/buzzer.c:34:6:buzzer_menu_select	8	static
+../Core/Src/buzzer.c:41:6:buzzer_menu_back	8	static

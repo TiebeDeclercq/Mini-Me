@@ -1,0 +1,15 @@
+../Core/Src/rotary.c:21:6:set_esp32_bottango_mode	8	static
+../Core/Src/rotary.c:26:6:set_esp32_animation_mode	8	static
+../Core/Src/rotary.c:30:6:rotary_read	24	static
+../Core/Src/rotary.c:324:6:debug_mode	24	static
+../Core/Src/rotary.c:353:6:exit_debug_mode	8	static
+../Core/Src/rotary.c:364:6:play_animation1	8	static
+../Core/Src/rotary.c:371:6:play_animation2	8	static
+../Core/Src/rotary.c:378:6:play_animation3	8	static
+../Core/Src/rotary.c:386:6:play_animation1_loop	8	static
+../Core/Src/rotary.c:393:6:play_animation2_loop	8	static
+../Core/Src/rotary.c:400:6:play_animation3_loop	8	static
+../Core/Src/rotary.c:408:6:stop_animation	8	static
+../Core/Src/rotary.c:414:6:show_animation_details	16	static
+../Core/Src/rotary.c:422:6:servo_control	8	static
+../Core/Src/rotary.c:428:6:connect_bottango	8	static

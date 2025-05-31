@@ -1,0 +1,4 @@
+../Core/Src/buzzer.c:11:6:buzzer_beep	4
+../Core/Src/buzzer.c:29:6:buzzer_menu_change	1
+../Core/Src/buzzer.c:34:6:buzzer_menu_select	1
+../Core/Src/buzzer.c:41:6:buzzer_menu_back	1
